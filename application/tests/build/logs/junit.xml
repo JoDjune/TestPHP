@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Model_test" file="C:\wamp\www\lab3\application\tests\models\Model_test.php" tests="2" assertions="2" failures="0" errors="0" time="0.098006">
+    <testcase name="test_getAllTims" class="Model_test" file="C:\wamp\www\lab3\application\tests\models\Model_test.php" line="11" assertions="1" time="0.072004"/>
+    <testcase name="test_getPlayerById" class="Model_test" file="C:\wamp\www\lab3\application\tests\models\Model_test.php" line="20" assertions="1" time="0.026002"/>
+  </testsuite>
+</testsuites>
